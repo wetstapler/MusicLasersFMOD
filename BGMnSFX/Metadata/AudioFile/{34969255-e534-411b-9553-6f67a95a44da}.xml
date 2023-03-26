@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{34969255-e534-411b-9553-6f67a95a44da}">
+		<property name="assetPath">
+			<value>Percussion/808ClosedHat.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.34027210884353742</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{70177441-f6c5-4729-af48-4a063249bb58}</destination>
+		</relationship>
+	</object>
+</objects>

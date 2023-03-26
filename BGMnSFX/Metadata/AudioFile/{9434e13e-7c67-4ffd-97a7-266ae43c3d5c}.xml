@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{9434e13e-7c67-4ffd-97a7-266ae43c3d5c}">
 		<property name="assetPath">
-			<value>WhirStutter.wav</value>
+			<value>SFX/WhirStutter.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

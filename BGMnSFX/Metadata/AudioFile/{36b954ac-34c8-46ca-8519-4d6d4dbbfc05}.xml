@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{36b954ac-34c8-46ca-8519-4d6d4dbbfc05}">
 		<property name="assetPath">
-			<value>808AmbienceLOOP.wav</value>
+			<value>Music/808AmbienceLOOP.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

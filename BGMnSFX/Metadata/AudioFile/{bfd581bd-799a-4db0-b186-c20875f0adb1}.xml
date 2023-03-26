@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{bfd581bd-799a-4db0-b186-c20875f0adb1}">
 		<property name="assetPath">
-			<value>ChiptuneAmbienceLOOP.wav</value>
+			<value>Music/ChiptuneAmbienceLOOP.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

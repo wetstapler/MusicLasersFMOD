@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{f7535278-2bbf-4869-81c1-3e884bd2c814}">
 		<property name="assetPath">
-			<value>Deactivate.wav</value>
+			<value>SFX/Deactivate.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{0491edad-f302-4798-906b-9d72e3dcbda6}">
 		<property name="assetPath">
-			<value>AltBreaking1.wav</value>
+			<value>SFX/AltBreaking1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

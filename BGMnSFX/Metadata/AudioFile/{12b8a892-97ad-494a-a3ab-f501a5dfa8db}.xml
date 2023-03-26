@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{12b8a892-97ad-494a-a3ab-f501a5dfa8db}">
+		<property name="assetPath">
+			<value>Percussion/909Kick.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.26040816326530614</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{70177441-f6c5-4729-af48-4a063249bb58}</destination>
+		</relationship>
+	</object>
+</objects>

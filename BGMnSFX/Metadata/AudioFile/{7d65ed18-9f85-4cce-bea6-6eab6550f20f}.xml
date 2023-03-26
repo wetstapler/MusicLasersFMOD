@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{7d65ed18-9f85-4cce-bea6-6eab6550f20f}">
 		<property name="assetPath">
-			<value>ChiptuneAmbienceINTRO.wav</value>
+			<value>Music/ChiptuneAmbienceINTRO.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
