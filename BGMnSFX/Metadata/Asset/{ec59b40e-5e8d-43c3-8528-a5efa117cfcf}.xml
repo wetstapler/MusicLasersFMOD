@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{ec59b40e-5e8d-43c3-8528-a5efa117cfcf}">
+		<property name="assetPath">
+			<value>Percussion/Chiptune/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{70177441-f6c5-4729-af48-4a063249bb58}</destination>
+		</relationship>
+	</object>
+</objects>

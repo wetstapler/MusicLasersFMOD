@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{3dba5f8b-b9f9-4d0d-8fa3-d94ca5b50205}">
+		<property name="name">
+			<value>World 3 - Chiptune</value>
+		</property>
+		<relationship name="folder">
+			<destination>{18d44530-eb55-46f5-89ef-5b3aed80b7d1}</destination>
+		</relationship>
+	</object>
+</objects>
