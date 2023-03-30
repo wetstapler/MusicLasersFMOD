@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9940b0ae-0ce9-4e74-977c-23eaa3332e6d}">
 		<property name="name">
-			<value>808Ambience</value>
+			<value>808Ambiance</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{18d44530-eb55-46f5-89ef-5b3aed80b7d1}</destination>
+			<destination>{114158dd-ea20-4d45-9726-f9d66ed56415}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{b68b2ed7-d20f-47c3-90a4-e11fbc7f8e73}</destination>
@@ -32,7 +32,7 @@
 			<destination>{c1bebd44-21f2-4c87-a483-f26ff7cae973}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{d0e97e71-4405-4c40-a5b0-dbdc8d99cc21}</destination>
+			<destination>{1fb5bdd9-1988-4a89-a6c9-aca59f674302}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{b68b2ed7-d20f-47c3-90a4-e11fbc7f8e73}">
