@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b849f6f4-2df4-4964-ae16-187282116af4}">
+		<property name="name">
+			<value>HatType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{cb9cb2c9-d566-49ea-8fad-a6393b0a3e7f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{6a8a0a47-f6b2-407f-ab87-244ddc07d849}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{6a8a0a47-f6b2-407f-ab87-244ddc07d849}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Open</value>
+			<value>Closed</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
