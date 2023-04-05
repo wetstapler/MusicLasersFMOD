@@ -59,7 +59,11 @@
 			<destination>{232e8052-5873-4307-b539-7abd269dd4da}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{91ddd7c6-4470-4858-be7b-e2a1dc53fa25}" />
+	<object class="EventAutomatableProperties" id="{91ddd7c6-4470-4858-be7b-e2a1dc53fa25}">
+		<property name="triggerCooldown">
+			<value>20</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{1d78ada1-3d65-410d-9762-c91fa0f2d781}" />
 	<object class="Timeline" id="{31653a9f-a510-4730-b48b-de98c756dc85}">
 		<property name="isProxyEnabled">
@@ -72,6 +76,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{f12cf14d-5a74-4334-9ed1-87e7c46cfa10}">
+		<property name="volume">
+			<value>-17</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{b99da86d-7b19-4bcb-9855-0a87eaf7e0b7}</destination>
 		</relationship>
